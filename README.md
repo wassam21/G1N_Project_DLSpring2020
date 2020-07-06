@@ -19,8 +19,11 @@ There are two main datasets available:
 
 ## System Diagram / Pipeline
 ![pipeline](/readme_images/pipeline.png)
+Figure is take from [1].
 
 ## Results
                            Pre-Trained Model                                            Our Model
 ![bresults](/readme_images/bresults.jpeg)
 
+## References
+[1] Godard, Clément, Oisin Mac Aodha, and Gabriel J. Brostow. "Unsupervised monocular depth estimation with left-right consistency." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 270-279. 2017.
