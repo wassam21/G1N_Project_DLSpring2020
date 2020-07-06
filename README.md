@@ -19,6 +19,6 @@ There are two main datasets available:
 ![pipeline](/readme_images/pipeline.png)
 
 ## Results
-           Pre-Trained Model             Our Model
+                                      Pre-Trained Model                                            Our Model
 ![bresults](/readme_images/bresults.jpeg)
 
