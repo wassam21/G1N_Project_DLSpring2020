@@ -13,8 +13,9 @@ The arrival of autonomous robots and self-driving cars have sprawled computer vi
 This model requires rectified stereo pairs for training.
 There are two main datasets available:
 #### KITTI 
-![link](http://www.cvlibs.net/datasets/kitti/)
+[link](http://www.cvlibs.net/datasets/kitti/)
 #### Cityscapes
+[link](https://www.cityscapes-dataset.com/)
 
 ## System Diagram / Pipeline
 ![pipeline](/readme_images/pipeline.png)
