@@ -18,8 +18,9 @@ There are two main datasets available:
 [link](https://www.cityscapes-dataset.com/)
 
 ## System Diagram / Pipeline
-![pipeline](/readme_images/pipeline.png)
 Figure is take from [1].
+![pipeline](/readme_images/pipeline.png)
+
 
 ## Results
                            Pre-Trained Model                                            Our Model
