@@ -16,9 +16,9 @@ There are two main datasets available:
 #### Cityscapes
 
 ## System Diagram / Pipeline
-![pipeline](/readme images/pipeline.png)
+![pipeline](/readme_images/pipeline.png)
 
 ## Results
 ###         Pre-Trained Model             Our Model
-![bresults](/readme images/bresults.png)
+![bresults](/readme_images/bresults.jpeg)
 
